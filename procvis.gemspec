@@ -5,13 +5,13 @@ require 'procvis/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "procvis"
-  spec.version       = Procvis::VERSION
+  spec.version       = ProcVis::VERSION
   spec.authors       = ["Costa Shapiro"]
   spec.email         = ["costa@mouldwarp.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "A simple process visualisation framework (in dot notion, with Firebase)"
+  # spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.homepage      = "https://procvis.io"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or

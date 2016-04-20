@@ -1,5 +1,5 @@
 require "procvis/version"
 
-module Procvis
+module ProcVis
   # Your code goes here...
 end
